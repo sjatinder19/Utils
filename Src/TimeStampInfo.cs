@@ -1,4 +1,12 @@
-﻿using System;
+/*********************************************************************************
+*  Copyright(c) 2014 Image Stream Medical, Inc. All rights reserved.             * 
+*  Replication or redistribution of Image Stream Medical Software is prohibited, *
+*  without the prior written consent of Image Stream Medical, Inc.               *
+*                                                                                *
+*  Author: Image Stream Medical Inc.                                             *
+*  Original Copyright Date:  10/24/2017                                          *
+*********************************************************************************/
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
