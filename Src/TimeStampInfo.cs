@@ -1,4 +1,4 @@
-*********************************************************************************
+/*********************************************************************************
 *  Copyright(c) 2017 Image Stream Medical, Inc. All rights reserved.             * 
 *  Replication or redistribution of Image Stream Medical Software is prohibited, *
 *  without the prior written consent of Image Stream Medical, Inc.               *
